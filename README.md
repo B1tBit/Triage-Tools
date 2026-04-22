@@ -4,7 +4,7 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)](https://github.com/PowerShell/PowerShell)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/B1tBit/Triage-Tools/graphs/commit-activity)
 
-**Triage-Tools** — это модуль PowerShell для быстрого сбора артефактов и Threat Hunting на Windows-хостах.  
+**Triage-Tools** - это модуль PowerShell для быстрого сбора артефактов и Threat Hunting на Windows-хостах.  
 Разработан для специалистов **SOC**, **IR-команд** и **пентестеров**, которым нужно за минуту получить полную картину подозрительной активности на конечной точке.
 
 ---
